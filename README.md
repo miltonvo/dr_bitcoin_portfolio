@@ -83,17 +83,17 @@
 
 ## Demonstration 📺
 
-| ![Login Screen](assets/1.png) | ![Dashboard](assets/2.png) | ![QR Generator](assets/3.png) |
+| ![Dashboard](assets/1.png) | ![Wallet](assets/2.png) | ![QR Code](assets/3.png) |
 |:------------------------:|:------------------------:|:------------------------:|
-| Login & Registration | Medical Dashboard | Payment QR Code |
+| Medical Dashboard | Bitcoin Wallet | Payment QR Code |
 
-| ![Transactions](assets/4.png) | ![Wallet](assets/5.png) | ![Payment Flow](assets/6.png) |
+| ![Transactions](assets/4.png) | ![Login](assets/5.png) | ![Registration](assets/6.png) |
 |:------------------------:|:------------------------:|:------------------------:|
-| Transaction History | Bitcoin Wallet | Payment Process |
+| Transaction History | Login Screen | Registration Screen |
 
-| ![Mobile](assets/7.png) | ![Admin](assets/8.png) | ![Settings](assets/9.png) |
+| ![Wallet Creation](assets/7.png) | ![Wallet Config](assets/8.png) | ![Wallet Config](assets/9.png) |
 |:------------------------:|:------------------------:|:------------------------:|
-| Mobile Responsive | Admin Panel | System Settings |
+| Wallet Creation | Wallet Configuration | Wallet Configuration |
 
 ### Video Demonstration 🎥
 

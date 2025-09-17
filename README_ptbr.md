@@ -83,17 +83,17 @@
 
 ## Demonstração 📺
 
-| ![Tela de Login](assets/1.png) | ![Dashboard](assets/2.png) | ![Gerador de QR](assets/3.png) |
+| ![Dashboard](assets/1.png) | ![Carteira](assets/2.png) | ![QR Code](assets/3.png) |
 |:------------------------:|:------------------------:|:------------------------:|
-| Login & Cadastro | Dashboard Médico | QR Code de Pagamento |
+| Dashboard Médico | Carteira Bitcoin | QR Code de Pagamento |
 
-| ![Transações](assets/4.png) | ![Carteira](assets/5.png) | ![Fluxo de Pagamento](assets/6.png) |
+| ![Transações](assets/4.png) | ![Login](assets/5.png) | ![Cadastro](assets/6.png) |
 |:------------------------:|:------------------------:|:------------------------:|
-| Histórico de Transações | Carteira Bitcoin | Processo de Pagamento |
+| Histórico de Transações | Tela de Login | Tela de Cadastro |
 
-| ![Mobile](assets/7.png) | ![Admin](assets/8.png) | ![Configurações](assets/9.png) |
+| ![Criação Carteira](assets/7.png) | ![Config Carteira](assets/8.png) | ![Config Carteira](assets/9.png) |
 |:------------------------:|:------------------------:|:------------------------:|
-| Responsivo Mobile | Painel Admin | Configurações do Sistema |
+| Criação da Carteira | Configuração Carteira | Configuração Carteira |
 
 ### Vídeo Demonstração 🎥
 
