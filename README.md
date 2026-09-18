@@ -100,3 +100,7 @@
 🔗 **Watch the system in action** ⬇️
 
 [![Watch the video](assets/thumb.png)](https://youtu.be/JJ5uJysVArI)
+
+---
+
+📄 Full case study on the MV Dev Solutions website: [https://mvdevsolutions.com.br/en/projects/drbitcoin-bitcoin-payment-system-for-healthcare](https://mvdevsolutions.com.br/en/projects/drbitcoin-bitcoin-payment-system-for-healthcare)

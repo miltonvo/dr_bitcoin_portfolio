@@ -100,3 +100,7 @@
 🔗 **Veja o sistema em ação** ⬇️
 
 [![Assista ao vídeo](assets/thumb.png)](https://youtu.be/JJ5uJysVArI)
+
+---
+
+📄 Case completo no site da MV Dev Solutions: [https://mvdevsolutions.com.br/projetos/drbitcoin](https://mvdevsolutions.com.br/projetos/drbitcoin)
